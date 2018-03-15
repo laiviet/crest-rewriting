@@ -1,0 +1,10 @@
+# ::id 1.1.1
+# ::snt Private rights must conform to the public welfare.
+# ::ltext (1) Private rights must conform to the public welfare.
+(o / obligate-01
+      :ARG1 (r / right
+            :ARG1-of (p / private-02))
+      :ARG2 (c / conform-01
+            :ARG1 r
+            :ARG2 (w / welfare
+                  :ARG1-of (p2 / public-02))))

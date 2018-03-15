@@ -1,0 +1,12 @@
+# ::id 1.2.1
+# ::snt The exercise of rights and performance of duties must be done in good faith.
+# ::ltext (2) The exercise of rights and performance of duties must be done in good faith.
+(o / obligate-01
+      :ARG2 (b / be-done-08
+            :ARG1 (e / excercise
+                  :part-of (a / and
+                        :op1 (r / right-05)
+                        :op2 (p / perform-02)
+                        :part-of (d / duty)))
+            :manner (f / faith
+                  :mod (g / good-02))))

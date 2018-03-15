@@ -1,0 +1,122 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Sep 12, 2016, 8:45:13 PM
+    Author     : viett
+*/
+
+body {
+    padding: 10px;
+    margin: 0px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.logo {
+    width: 100%;
+    height: 70px;
+    background-color: #8E8EFB;
+}
+
+#logoimg {
+    height: 70px;
+    float: left;
+    max-width: 20%;
+}
+
+h1 {
+    float: left;
+    text-align: center;
+    color: white;
+    height: 50px;
+    margin: 0px;
+    padding-top: 10px;
+    width: 80%;
+    text-transform: uppercase;
+}
+
+#instruction {
+    text-align: left;
+    margin: 0px;
+}
+
+h4 {
+    background-color: #8E8EFB;
+    margin: 0px;
+    padding: 5px;
+    color: white;
+}
+
+form {
+    align-content: center;
+    width: 80%;
+    padding: 0px;
+}
+
+button {
+    margin: 10px 0px 10px 0px;
+    padding: 5px;
+    background-color: white;
+    border: 0px;
+}
+
+#save_btn {
+    display: none;
+}
+
+#summary_img {
+    height: 50px;
+    margin: 0px;
+    padding: 10px;
+}
+
+#summary_img:hover {
+    padding: 15px;
+}
+
+textarea {
+    font-size: 15px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#content > table {
+    margin-top: 0px;
+    width: 80%;
+}
+
+#content {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align: center;
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+}
+
+.btn {
+    background-color: #8E8EFB;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+    margin-right: 20px;
+    font-size: 120%;
+}
+
+#footer {
+    margin: 0px;
+    padding: 2px;
+    background-color: #8E8EFB;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    text-align: center;
+    color: white;
+}
+
