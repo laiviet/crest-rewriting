@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="json-simple-1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgrapht-core-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgrapht-ext-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgrapht-io-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stanford-corenlp-3.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/stanford-corenlp-3.8.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/jgrapht-core-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
